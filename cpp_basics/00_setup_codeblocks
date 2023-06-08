@@ -1,0 +1,13 @@
+/*-----------------------C++-Basics--------------------*/
+/*--------------------Muhammad Waseem------------------*/
+
+/*
+
+Codeblocks installation process in ubuntu
+	-- sudo apt install g++
+	-- sudo add-apt-repository universe
+	-- sudo apt update
+	-- sudo apt install codeblocks
+	-- sudo apt install codeblocks-contrib
+	
+*/
