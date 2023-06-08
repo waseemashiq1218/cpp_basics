@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686176986 source:/home/waseem/Projects/cpp-revision/cpp_basics/main.cpp
+	<iostream>
+	<cmath>
+	<string>
+
